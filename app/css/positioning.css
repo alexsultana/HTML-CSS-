@@ -1,0 +1,49 @@
+.title{
+position:absolute;
+right:40%;
+top:10%;
+text-align: center;
+}
+
+.header {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: red;
+    text-align: center;
+}
+
+.fixed {
+  position: fixed;
+  left: 0;
+  bottom: 0; //
+}
+
+
+.static {
+  position: static;
+  left: 100px;
+}
+
+.relative {
+  position: relative;
+  left: 100px;
+}
+
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}

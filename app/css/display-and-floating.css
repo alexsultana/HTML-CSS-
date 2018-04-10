@@ -1,0 +1,23 @@
+div.fcsb.floating {
+
+  width: 130px;
+  height: 160px;
+  background-size: cover;
+  background-image: url(/img/fcsb.png);
+  margin: 20px;
+
+  float: left;
+}
+div.dinamo.floating {
+
+  width: 130px;
+  height: 160px;
+  background-size: cover;
+  background-image: url(/img/dinamo.png);
+  margin: 20px;
+
+  float: right;
+}
+p.cleared {
+    clear: right;
+}
